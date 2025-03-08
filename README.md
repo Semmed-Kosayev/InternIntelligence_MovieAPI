@@ -13,7 +13,7 @@ This is a **RESTful API** for managing a movie database, built using **Spring Bo
 - **Java 17**
 - **Spring Boot 3**
 - **Spring Data JPA**
-- **H2/PostgreSQL**
+- **PostgreSQL**
 - **Lombok**
 - **Swagger (Springdoc OpenAPI)**
 
